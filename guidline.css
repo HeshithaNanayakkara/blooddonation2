@@ -1,0 +1,173 @@
+body{
+
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(11,71,22,1) 10%, rgba(13,42,87,1) 35%, rgba(105,21,21,1) 67%, rgba(18,89,76,1) 92%, rgba(0,0,0,0.8855917366946778) 100%);
+
+}
+
+
+#topnavbar {
+    background-color: rgb(8, 14, 65);
+    
+}
+
+#topheaderimg{
+    margin-left: 10px;
+}
+
+#logbtnform1{
+    background-color: rgb(214, 12, 127);
+    color: white;
+    border: 1px solid black;
+    
+}
+
+#logbtnform2{
+    border: 1px solid rgb(75, 5, 5);
+    
+}
+
+
+#bottomnavbar{
+    background-color: rgb(107, 10, 64);
+    padding-left: 27%;
+    padding-right: 29%;
+    margin-left: 2px;
+    
+    
+    
+    
+}
+
+#formsearch{
+    margin-left: 76%;
+    
+}
+
+.searchinput{
+   
+
+    border-radius: 20px;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: rgb(255, 255, 255);
+
+
+}
+
+#searchinputter{
+    margin-top: 10px;
+}
+
+#navbarSupportedContent ul li a{
+    margin-left: 52px;
+    color: white;
+    padding: 5px;
+}
+
+#navbarSupportedContent ul li a:hover{
+    color: white;
+    padding: 5px;
+    background-color: green;
+}
+
+#navbarSupportedContent ul {
+    margin-left: -360px;
+}
+
+/* guidline header section */ 
+
+#guidlineheader{
+    margin-left: 41%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 10px;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(167,38,26,1) 13%, rgba(167,33,117,1) 92%, rgba(0,0,0,0.8855917366946778) 100%);
+    color: aliceblue;
+    border-radius: 20px;
+    width: 18%;
+    
+}
+
+
+
+
+/*advice section */
+
+.advice-box1{
+    padding-top: 90px;
+    padding-bottom: 60px;
+    padding-left: -10px;
+    padding-right: -10px;
+    background-color: rgba(24, 129, 77, 0.363);
+    width: 60%;
+    margin-left: -25%;
+
+    border: 2px solid rgb(133, 133, 10);
+    border-radius: 20px;
+}
+
+.advice-box1 ul li {
+    margin-top: 30px;
+    font-size: 28px;
+    
+   
+}
+
+#advicelogo{
+    margin-left: 48%;
+    margin-top: -100%;
+}
+
+.advice-box2{
+    padding-top: 90px;
+    padding-bottom: 0px;
+    padding-left: -10px;
+    padding-right: -10px;
+    background-color: rgba(71, 13, 13, 0.514);
+    width: 90%;
+    margin-left: 37%;
+    margin-top: -75%;
+
+    border: 2px solid red;
+    border-radius: 20px;
+
+
+}
+
+.advice-box2 ul li {
+    margin-top: 30px;
+    font-size: 28px;
+    
+   
+}
+#advicelogo2{
+    margin-left: 60%;
+    margin-top: -60%;
+}    
+
+/*-------------footer section -----------------------------------------*/
+
+.footersection{
+
+    background-color: rgb(43, 4, 4);
+    color: aliceblue;
+
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#footerelements {
+    display:flex;
+}
+
+#footerelements ul{
+    margin-left: 60px;
+    list-style: none;
+    
+}
+
+#footerelements ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
